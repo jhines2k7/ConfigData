@@ -12,7 +12,8 @@ server:
 spring:
   profiles: zuul
 server:
-  poprt: 8080
+  port: 8080
+  
 spring:
   profiles: sentence
 server:
